@@ -1,0 +1,2 @@
+# Add file patterns to be ignored globally by git
+.idea/
